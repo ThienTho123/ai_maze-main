@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/ThongNguyenDT/ai_maze">
+  <a href="https://github.com/ThienTho123/ai_maze-main">
     <img src="assets/image/logo.png" alt="Logo" width="300" height="300">
   </a>
 
