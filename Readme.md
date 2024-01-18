@@ -8,11 +8,11 @@
   <p align="center">
     An interactive maze game with user-playable and auto-solving features using the noTrain AI algorithm.
     <br />
-    <a href="https://github.com/ThongNguyenDT/ai_maze"><strong>🚀 Try it now</strong></a>
+    <a href="https://github.com/ThienTho123/ai_maze-main"><strong>🚀 Try it now</strong></a>
     ·
-    <a href="https://github.com/ThongNguyenDT/ai_maze/issues">🐛 Report Bug</a>
+    <a href="https://github.com/ThienTho123/ai_maze-main/issues">🐛 Report Bug</a>
     ·
-    <a href="https://github.com/ThongNguyenDT/ai_maze/issues">✨ Request Feature</a>
+    <a href="https://github.com/ThienTho123/ai_maze-main/issues">✨ Request Feature</a>
   </p>
 </div>
 
@@ -21,10 +21,14 @@
 
 Auto MAZE Pygame is a maze game with user and auto-solving features using the noTrain AI algorithm.
 
+## Member
 
+- Nguyễn Dương Tiến Thông [(ThongNguyenDT)](https://github.com/ThongNguyenDT)
+- Trần Xuân Thanh Thiện [(TXTThien)](https://github.com/TXTThien)
+- Huỳnh Thiện Thọ [(ThienTho123)](https://github.com/ThienTho123)
 
 ### Installation
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/ThongNguyenDT/ai_maze.git
+   git clone https://github.com/ThienTho123/ai_maze-main.git
